@@ -1,8 +1,7 @@
-# Project X
+# Traffic Collisions Hotspots
 
-TODO describe project here
+Group 6: Awais Malik, Bartosz Bonczak, Radu Stancut
 
-A live demo can be found [here](http://NYU-CS6313-Projects.github.io/sp2015-group6/).
+Our project goal is to provide the NYPD with enhanced cognition of traffic collision patterns in the New York City by identifying collision hotspots and correlating them with specific enforcement-related causes.
 
-You can use the `deploy.sh` script to keep the `gh-pages` branch up-to-date.
-When forking this project be sure to update the link to the demo page in this file.
+A live demo can be found [here](http://rawgit.com/NYU-CS6313-Projects/sp2015-group6/master/code/test3.html).
